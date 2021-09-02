@@ -2,3 +2,5 @@
 My in-class work for APSU's CSCI 3005
 
 This DOES NOT include homework assignments, only class notes, so feel free to copy these as needed
+
+This code will be far from perfect, so don't judge me.
