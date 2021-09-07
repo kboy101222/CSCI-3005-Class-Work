@@ -5,9 +5,11 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp Crash Course", "CSharp Crash Course\CSharp Crash Course.csproj", "{F29663C0-FC28-40A7-B410-B4BC75F9C5AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object Examples", "Object Examples\Object Examples.csproj", "{59A3FCC8-70E2-41A2-B86B-CCFA1119D849}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Object Examples", "Object Examples\Object Examples.csproj", "{59A3FCC8-70E2-41A2-B86B-CCFA1119D849}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetExamples", "SetExamples\SetExamples.csproj", "{8F74E356-CD30-4999-B7F9-B255644F0EFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetExamples", "SetExamples\SetExamples.csproj", "{8F74E356-CD30-4999-B7F9-B255644F0EFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes and Related Things", "Classes and Related Things\Classes and Related Things.csproj", "{27C607F3-5EA2-4BC0-B167-7450BD6C0687}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{8F74E356-CD30-4999-B7F9-B255644F0EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F74E356-CD30-4999-B7F9-B255644F0EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F74E356-CD30-4999-B7F9-B255644F0EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C607F3-5EA2-4BC0-B167-7450BD6C0687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C607F3-5EA2-4BC0-B167-7450BD6C0687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C607F3-5EA2-4BC0-B167-7450BD6C0687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C607F3-5EA2-4BC0-B167-7450BD6C0687}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
