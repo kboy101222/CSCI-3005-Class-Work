@@ -31,6 +31,18 @@ namespace CSharp_Crash_Course
                 Console.WriteLine("There was an error!");
                 Console.WriteLine(e);
             }
+
+            int a = 10;
+            int b = 24;
+            int current = a;
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(current);
+                // Ternary
+                // variable = condition ? if true : if false;
+                current = current == a ? current = b : current = a;
+            }
         }
     }
 }
