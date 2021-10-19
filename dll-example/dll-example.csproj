@@ -1,9 +1,9 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>CSharp_Crash_Course</RootNamespace>
+    <RootNamespace>dll_example</RootNamespace>
   </PropertyGroup>
 
 </Project>
